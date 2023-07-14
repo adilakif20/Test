@@ -5,6 +5,7 @@ permalink: /
 
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
 
+
 # Welcome!
 
 Welcome to my personal page! Stay tuned for updates.
